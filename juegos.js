@@ -9,4 +9,12 @@ export const JUEGOS = [
     color: '#e5482d',
     letra: 'T',
   },
+  {
+    id: 'duelo-pk',
+    nombre: 'DUELO PK',
+    texto: 'Lucha física 1 contra 1: dos luchadores con equilibrio, golpes reales y ragdoll. Local y online.',
+    ruta: '/duelo-pk/',
+    color: '#3fa7e0',
+    letra: 'D',
+  },
 ];
